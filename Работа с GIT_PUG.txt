@@ -50,6 +50,6 @@ npm install pug-cli -g
 
 pug index.pug
 pug . (Компилировать все)
-pug --preety (Компилировать красиво)
+pug --pretty (Компилировать красиво)
 pug -w (Следить за изменениями)
-pug --prety -w .
+pug --pretty -w .
